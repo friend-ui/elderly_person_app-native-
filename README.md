@@ -1,11 +1,11 @@
 # 一个简易桌面安卓App  
 简易的桌面，方便特殊人群的使用   
-App图标：
+# App图标：    
 <img width="99" height="134" alt="image" src="https://github.com/user-attachments/assets/62e71bfc-0967-4cc4-9bd7-8691bd79ec0f" />    
-主页：    
+# 主页：    
 <img width="619" height="1256" alt="image" src="https://github.com/user-attachments/assets/7f0d1d25-1768-4fcd-a7c5-28e9f9fd368b" />    
 
-特色功能：除了5个固定的按钮，还可以自己添加已有的应用，这是添加后的示意图，像抖音和微信这些都可以自己添加：
+# 特色功能：除了5个固定的按钮，还可以自己添加已有的应用，这是添加后的示意图，像抖音和微信这些都可以自己添加：
 <img width="619" height="1301" alt="image" src="https://github.com/user-attachments/assets/77b381cd-cd1f-4143-b778-1c20a63e8d3a" />      
 
-这个应用适合老年人使用，承诺无任何广告，公益App.
+# 这个应用适合老年人使用，承诺无任何广告，公益App.
